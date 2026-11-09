@@ -30,7 +30,7 @@ I enjoy learning how digital systems work and implementing hardware designs usin
 - MATLAB
 - Proteus
 - Keil
-
+- Cadence
 ## 📂 Featured Projects
 
 - **Traffic Light Controller using Verilog HDL**
