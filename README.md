@@ -27,10 +27,11 @@ I enjoy learning how digital systems work and implementing hardware designs usin
 
 **Tools & Technologies**
 - Xilinx Vivado
+- Cadence
 - MATLAB
 - Proteus
 - Keil
-- Cadence
+
 ## 📂 Featured Projects
 
 - **Traffic Light Controller using Verilog HDL**
