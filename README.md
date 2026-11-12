@@ -48,8 +48,7 @@ I enjoy learning how digital systems work and implementing hardware designs usin
 ## 🤝 Connect With Me
 
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mr-nagaraj/)
-- GitHub: [My GitHub](https://github.com/nagaraja-hugaluru)
-
+- Instagram: [@iam__nagaraj_](https://www.instagram.com/iam__nagaraj_/)
 ---
 
 *Always learning, building and exploring digital hardware.*
