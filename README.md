@@ -31,6 +31,8 @@ I enjoy learning how digital systems work and implementing hardware designs usin
 - MATLAB
 - Proteus
 - Keil
+- EDA playground
+- Visual Studio Code
 
 ## 📂 Featured Projects
 
